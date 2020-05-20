@@ -1,0 +1,27 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "Testing using mysql with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elboboua/express-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elboboua/express-mysql/issues"
+  },
+  "homepage": "https://github.com/elboboua/express-mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
